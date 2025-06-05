@@ -45,9 +45,29 @@ A real-time visualizer for classic pathfinding algorithms built using Python and
 
 ---
 
+## 🎓 Skills Demonstrated
+
+This project showcases an understanding of:
+
+- 🧭 **Graph traversal algorithms and data structures**  
+  Implements A*, Dijkstra, BFS, and Bellman-Ford with full control over weights and neighbors.
+
+- 🖥️ **Real-time rendering and input handling**  
+  Uses Pygame’s event-driven system for interactive grid updates and responsive controls.
+
+- 🧩 **Clean modular architecture for extensibility**  
+  Easy to add new algorithms, UI features, or visual effects without disrupting core logic.
+
+- 🛠️ **Usable tools for teaching or interview prep**  
+  A practical way to see algorithm behavior and state transitions in action.
+
+
 ## 🚀 Getting Started
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/pathfinding-visualizer.git
    cd pathfinding-visualizer
+2. pip install pygame
+3. python main.py
+
