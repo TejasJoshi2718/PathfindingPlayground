@@ -13,7 +13,7 @@ A real-time visualizer for classic pathfinding algorithms built using Python and
   Toggle negative weight mode for Bellman-Ford using the `N` key. Click cells to set them as "easier paths."
 
 - 🧠 **Interactive UI**  
-  Click to place Start, End, Barriers, or Negative Cells. Press keys 1-5 to switch algorithms instantly.
+  Click to place Start, End, Barriers, or Negative Cells. Press keys 1-4 to switch algorithms instantly.
 
 - 🧱 **Grid-Based Visual Feedback**  
   Colored cells represent open, closed, barriers, paths, start/end, and negative-weight nodes.
