@@ -27,8 +27,7 @@ A real-time visualizer for classic pathfinding algorithms built using Python and
 | `1` | A* Algorithm |
 | `2` | Dijkstra’s Algorithm |
 | `3` | Breadth-First Search |
-| `4` | Floyd-Warshall (placeholder) |
-| `5` | Bellman-Ford Algorithm |
+| `4` | Bellman-Ford Algorithm |
 | `N` | Toggle negative weight mode (Bellman-Ford) |
 | `SPACE` | Run selected algorithm |
 | `C` | Clear board |
